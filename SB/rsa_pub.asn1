@@ -1,0 +1,5 @@
+asn1 = SEQUENCE:rsapubkey
+
+[rsapubkey]
+modulus = INTEGER:28991
+publicExponent = INTEGER:3420171135855205036424944102145
